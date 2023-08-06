@@ -31,3 +31,5 @@
 [GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation](https://verymuchmorethanastronomically.tistory.com/46)
 
 [Zero-Shot Next-Item Recommendation using Large Pretrained Language Models](https://verymuchmorethanastronomically.tistory.com/47)
+
+[Fine-Tuning Language Models from Human Preferences](https://verymuchmorethanastronomically.tistory.com/49)
